@@ -1,3 +1,7 @@
+# IT IS FORK!
+
+A specific image gallery for news media project based on the original <a href="https://github.com/yifaneye/react-gallery-carousel">yifaneye/react-gallery-carousel</a> gallery. The fork was made because the thumbnails customization does not work in the original gallery at the time of 26.10.2023
+
 # react-gallery-carousel
 
 [![npm version][npm-badge]][npm-url]
