@@ -1,10 +1,10 @@
 {
-  "name": "react-gallery-carousel",
+  "name": "theins-gallery-carousel",
   "version": "0.4.0",
-  "description": "Mobile-friendly Carousel with batteries included (supporting touch, mouse emulation, lazy loading, thumbnails, fullscreen, RTL, keyboard navigation and customisations).",
+  "description": "Fork of react-gallery-carousel",
   "author": "yifaneye",
   "license": "MIT",
-  "repository": "yifaneye/react-gallery-carousel",
+  "repository": "vladmedov/theins-gallery-carousel",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
