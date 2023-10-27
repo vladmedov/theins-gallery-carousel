@@ -20,6 +20,7 @@ $activeOpacity: 1;
 
 .currentThumbnail {
   opacity: $activeOpacity;
+  border: 2px solid #E54839;
 }
 
 .thumbnail:not(.currentThumbnail):hover {
