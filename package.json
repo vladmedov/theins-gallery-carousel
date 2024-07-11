@@ -52,7 +52,11 @@
     "react-test-renderer": "16.13.1"
   },
   "files": [
-    "dist/*"
+    "dist/index.js",
+    "dist/index.js.map",
+    "dist/index.modern.js",
+    "dist/index.modern.js.map",
+    "dist/index.css",
   ],
   "dependencies": {},
   "jest": {
