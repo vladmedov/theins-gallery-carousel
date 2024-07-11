@@ -56,7 +56,7 @@
     "dist/index.js.map",
     "dist/index.modern.js",
     "dist/index.modern.js.map",
-    "dist/index.css",
+    "dist/index.css"
   ],
   "dependencies": {},
   "jest": {
